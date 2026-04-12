@@ -88,7 +88,6 @@
 | Vaporview (VSCode Waveform Viewer) | https://github.com/Lramseyer/vaporview |
 | PyMTL Tutorial | https://www.csl.cornell.edu/courses/ece5745/ |
 | Universal Verification Methodology | https://www.accellera.org/activities/working-groups/uvm |
-| Pipelining RISC-V CPU with cocotb | https://www.cocotb.org/ |
 
 ### Layout & Physical Design
 | Name | URL |
@@ -217,9 +216,7 @@
 | F4PGA (GCC of FPGAs) | https://f4pga.org/ |
 | LiteX (SoC Builder) | https://github.com/enjoy-digital/litex |
 | Icestudio | https://icestudio.io/ |
-| nextpnr (P&R for FPGAs) | https://github.com/YosysHQ/nextpnr |
 | openFPGALoader | https://github.com/trabucayre/openFPGALoader |
-| FABulous (FPGA Fabric Gen) | https://github.com/FPGA-Research/FABulous |
 | WTFpga (FPGA Tutorial) | https://github.com/esden/WTFpga |
 | learn-fpga (BrunoLevy) | https://github.com/BrunoLevy/learn-fpga |
 | From Blinker to RISC-V Tutorial | https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md |
@@ -251,7 +248,6 @@
 | Analog IC Design (SSCS OSE) | https://sscs-ose.github.io/analog/ |
 | MOSbius Book | https://mosbius.org/ |
 | CASCODELABS | https://cascodelab.com/ |
-| GDSFactory | https://gdsfactory.github.io/gdsfactory/ |
 | LAYGO3 Web Console | https://laygo3.github.io/ |
 | OpenDPD (Power Amplifier Linearizer) | https://github.com/lab-emi/OpenDPD |
 | RFIC-TL (ETH IDEAS) | https://github.com/ETH-IDEAS/RFIC-TL |
@@ -288,18 +284,14 @@
 | Berkeley Course Captures Archive | https://wiki.archiveteam.org/index.php/UC_Berkeley_Course_Captures |
 | Berkeley Library Affordable Resources | https://guides.lib.berkeley.edu/affordable-resources |
 | EE 105: Microelectronic Devices | https://inst.eecs.berkeley.edu/~ee105/ |
-| UCB-BAR Gemmini | https://github.com/ucb-bar/gemmini |
-| UCB Chipyard Lab Tutorial | https://ucb-ee290c.github.io/tutorials/chipyard/chipyard-lab/ |
 
 ### Cornell University
 | Name | URL |
 |------|-----|
 | ECE 4750 Computer Architecture | https://www.csl.cornell.edu/courses/ece4750/ |
-| ECE 5745 Complex Digital ASIC Design | https://www.csl.cornell.edu/courses/ece5745/ |
 | Cornell ECE6745 Repos | https://github.com/cornell-ece6745 |
 | Cornell ECE5745 Repos | https://github.com/cornell-ece5745 |
 | Cornell ECE5745 Repositories | https://github.com/orgs/cornell-ece5745/repositories |
-| Cornell C2S2 Tapeout Team | https://cornell-c2s2.github.io/ |
 | HeteroCL (Cornell Zhang Lab) | https://github.com/cornell-zhang/heterocl |
 | ECE510 Challenges | https://github.com/nkanderson/ECE510-challenges |
 | Cornell VLSI (Introduction) | https://www.csl.cornell.edu/ |
@@ -316,7 +308,6 @@
 | Name | URL |
 |------|-----|
 | EE372 Design Projects in VLSI II | https://priyanka-raina.github.io/ee372-spring2022/ |
-| CS 217: Hardware Accel. for ML | https://cs217.stanford.edu/ |
 | Stanford VLSI Research Group | https://vlsi.stanford.edu/research |
 | Stanford STORM Genie | https://storm.genie.stanford.edu/ |
 
@@ -327,18 +318,15 @@
 | EE 6350 Spring 2024 | https://www.ee.columbia.edu/~kinget/EE6350_S24/ |
 | EE 6350 Spring 2023 | https://www.ee.columbia.edu/~kinget/EE6350_S23/ |
 | CSEE E6861y – CAD of Digital Systems | https://www.cs.columbia.edu/~sedwards/classes/2022/6861y-spring/ |
-| ESP (Columbia SLD Lab) | https://github.com/sld-columbia/esp |
 
 ### Other Universities
 | Name | URL |
 |------|-----|
 | ECE 425 – Intro to VLSI (Univ. of Utah) | https://ece.utah.edu/ |
 | ECE 559 MOS VLSI Design | https://www.ece.ncsu.edu/ |
-| ECE 5745 Cornell | https://www.csl.cornell.edu/courses/ece5745/ |
 | VLSI Class (Jacob Abraham – UT Austin) | http://users.ece.utexas.edu/~abraham/vlsi/ |
 | Rice ELEC 522 Fall 2023 | https://elec522.rice.edu/ |
 | CS 3220 Processor Design | https://cs3220.github.io/ |
-| ECE 4750 Cornell | https://www.csl.cornell.edu/courses/ece4750/ |
 | EE3082 Digital Electronics Lab | https://www.ece.nus.edu.sg/stfpage/elelg/EE3082/ |
 | EE6321 Advanced Digital ICs | https://ee6321.ece.tamu.edu/ |
 | Index of ECE 643 (UWM) | http://cs.uwm.edu/~jhoe/course/ece643/ |
@@ -368,7 +356,6 @@
 | nanoHUB Nanotechnology Education | https://nanohub.org/ |
 | SiliWiz – Learn Semiconductor Basics | https://app.siliwiz.com/ |
 | HarveyMuddX Digital Design (edX) | https://www.edx.org/ |
-| HarveyMuddX Computer Architecture (edX) | https://www.edx.org/ |
 | Arm Online Courses (Coursera) | https://www.coursera.org/partners/arm |
 | Arm Education (edX) | https://www.edx.org/learn/computer-architecture/arm-education-computer-architecture-essentials-on-arm |
 | Arm Education Kits | https://www.arm.com/resources/education/education-kits |
@@ -398,7 +385,6 @@
 | Spade HDL | https://spade-lang.org/ |
 | TL-Verilog Projects (TL-X org) | https://github.com/TL-X-org/TL-V_Projects |
 | ROHD (Intel – Dart-based HDL) | https://intel.github.io/rohd-website/ |
-| HeteroCL (Python-based HLS) | https://github.com/cornell-zhang/heterocl |
 | Halide-to-Hardware (Stanford AHA) | https://github.com/StanfordAHA/Halide-to-Hardware |
 | Genesis2 (Stanford VLSI) | https://github.com/StanfordVLSI/Genesis2 |
 | CIRCT (LLVM/MLIR for HW) | https://github.com/llvm/circt |
@@ -427,14 +413,10 @@
 | Falstad Circuit Simulator | https://www.falstad.com/circuit/ |
 | Ripes RISC-V Simulator | https://ripes.me/ |
 | Ripes GitHub | https://github.com/mortbopet/Ripes |
-| emulsiV (RISC-V Minimal Simulator) | https://brucedodson.github.io/emulsiV/ |
 | RISC-V CPU Visualizer | https://mostlykiguess.github.io/RISC-V-Processor-Implementation/ |
 | VisuAlgo (Algorithm Visualizer) | https://visualgo.net/en |
 | Data Structures Viz (USFCA) | https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
 | Logicly (Logic Gate Simulator) | https://logic.ly/ |
-| Logisim Evolution | https://github.com/logisim-evolution/logisim-evolution |
-| 8bitworkshop Verilog IDE | https://8bitworkshop.com/ |
-| VGA Playground | https://vga-playground.com/ |
 | Stixu Stick Diagrammer | https://stixu.io/ |
 | NN Visualizer (VLSI System Design) | https://nn-visualizer.vlsisystemdesign.com/ |
 | Spade Playground | https://spade-lang.org/playground/ |
@@ -448,7 +430,6 @@
 
 | Name | URL |
 |------|-----|
-| Tiny Tapeout | https://tinytapeout.com/ |
 | Tiny Tapeout 9 | https://zerotoasiccourse.com/post/tinytapeout09/ |
 | ttsky25a-tinyQV | https://github.com/TinyTapeout/ttsky25a-tinyQV |
 | Chipalooza Projects (Set 1) | https://github.com/RTimothyEdwards/chipalooza_projects_1 |
@@ -456,8 +437,6 @@
 | tt07-bep-decode | https://github.com/DusterTheFirst/tt07-bep-decode |
 | Baochip-1x | https://github.com/baochip/baochip-1x |
 | Dabao Eval Board for Baochip-1x | https://github.com/baochip/dabao |
-| Minimal Fab | https://www.minimalfab.com/en/ |
-| MinimalFab Design Contest 2024 | https://codeberg.org/mole99/minimalfab-design-contest-2024 |
 | UofT ASIC Team – IC Hackathon | https://uoftasic.com/ |
 | OpenSemi Open-Source HW (IIT Bengaluru) | https://opensemi.iitb.ac.in/ |
 | FSiC2025 – Open Silicon Conference | https://wiki.f-si.org/index.php?title=FSiC2025 |
@@ -465,7 +444,6 @@
 | Designing Silicluster Blog | https://www.electronicdesign.com/technologies/analog/article/55302523/ |
 | Tiny Tapeout Personal Story | https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/ |
 | A-Core GitLab | https://gitlab.com/a-core |
-| enicslabs RTL2GDS Demo | https://github.com/enics-labs/rtl2gds-demo |
 | ASIC Design (Akash-Perla) | https://github.com/Akash-Perla/ASIC-Design |
 | ASIC Books & Resources (LinkedIn) | https://www.linkedin.com/pulse/asic-books-resources-alan-saw/ |
 | BLAKE2s Hashing Accelerator Tapeout | https://www.hackster.io/ |
@@ -480,7 +458,6 @@
 | Name | URL |
 |------|-----|
 | Open Compute Project | https://www.opencompute.org/ |
-| CHIPS Alliance | https://www.chipsalliance.org/ |
 | CHIPS Alliance Silicon Notebooks | https://github.com/chipsalliance/silicon-notebooks |
 | FOSSi Foundation | https://fossi-foundation.org/ |
 | FOSSi GSoC 2025 Ideas | https://fossi-foundation.org/gsoc/gsoc25-ideas |
@@ -489,7 +466,6 @@
 | Gathering for Open Science Hardware | https://openhardware.science/ |
 | OpenHardware.io | https://www.openhardware.io/ |
 | OHO Wiki | https://en.oho.wiki/wiki/Home |
-| lowRISC Open Source Silicon | https://lowrisc.org/ |
 | PULP Platform | https://pulp-platform.org/ |
 | PULP FAQs | https://pulp-platform.org/faq.html |
 | SwissChips Education | https://www.swisschips.ethz.ch/education-outreach.html |
@@ -541,12 +517,7 @@
 |------|-----|
 | Awesome Open-Source Hardware | https://github.com/aolofsson/awesome-opensource-hardware |
 | Awesome Semiconductor Startups | https://github.com/aolofsson/awesome-semiconductor-startups |
-| Awesome Open-Source ASIC Resources | https://github.com/mattvenn/awesome-opensource-asic-resources/blob/main/README.md |
 | Awesome Electronics (Kitspace) | https://github.com/kitspace/awesome-electronics |
-| Awesome HDL (drom) | https://github.com/drom/awesome-hdl |
-| HDL Awesome List | https://github.com/hdl/awesome |
-| EDA Collection (pkuzjx) | https://github.com/pkuzjx/eda-collection |
-| Awesome Photonics | https://github.com/joamatab/awesome_photonics |
 | Computer Architecture & Systems Resources | https://github.com/rajesh-s/computer-architecture-and-systems-resources |
 | Awesome Math Books | https://github.com/valeman/Awesome_Math_Books |
 | Awesome Creative Technology | https://github.com/j0hnm4r5/awesome-creative-technology |
@@ -569,7 +540,6 @@
 |------|-----|
 | From Code to Chip (Book) | https://books.google.co.in/books?id=qtM9EQAAQBAJ |
 | From Code to Chip (Blog Review) | https://sedemos.blogspot.com/2025/01/book-from-code-to-chip.html |
-| ASIC Books & Resources (LinkedIn) | https://www.linkedin.com/pulse/asic-books-resources-alan-saw/ |
 | DIY Silicon – Design Your Own Chips | https://makezine.com/article/electronics/diy-silicon-design-your-own-chips/ |
 | Open-Source IC Design Flow for RISC-V | https://www.mehmetburakaykenar.com/open-source-ic-design-flow-for-an-open-source-risc-v-core/444/ |
 | Strategic Thinking on Open-Source PDK | https://jun1okamura.medium.com/strategic-thinking-on-open-source-pdk-5fb8f7522122 |
@@ -586,13 +556,10 @@
 | Proprietary ICs vs Open Microscopy | https://zeptobars.com/ |
 | VIBE Chip Design Article | https://www.viksnewsletter.com/ |
 | Does This Count as Alien Technology? | https://hackaday.com/ |
-| Installing OSS IC Tools (Vik's Newsletter) | https://www.viksnewsletter.com/p/a-comprehensive-guide-to-installing-oss-tools-for-icdesign |
-| Designing Silicluster (Electronic Design) | https://www.electronicdesign.com/technologies/analog/article/55302523/ |
 | Understanding Deep Learning (Book) | https://udlbook.github.io/udlbook/ |
 | λ-2D Drawing as Programming (MIT Media Lab) | https://www.media.mit.edu/projects/lambda-2d/ |
 | FireBox – Warehouse-Scale Computer (USENIX) | https://www.usenix.org/conference/fast14/technical-sessions/presentation/firebox |
 | El Correo Libre Issue 92 | https://elcorreolibre.com/ |
-| Accelerating Open Chiplet Ecosystem Blog | https://www.opencompute.org/ |
 
 ---
 
@@ -614,7 +581,6 @@
 | Awesome n8n Templates | https://github.com/enescingoz/awesome-n8n-templates |
 | n8n Community Workflows | https://n8n.io/workflows/ |
 | Anthropic Prompt Engineering Tutorial | https://github.com/anthropics/prompt-eng-interactive-tutorial |
-| Codecademy | https://www.codecademy.com/ |
 | LeetCode Company-wise Problems | https://github.com/liquidslr/leetcode-company-wise-problems |
 | Math & Science Video Lectures | https://github.com/Developer-Y/math-science-video-lectures |
 | Introducing GPT-OSS | https://openai.com/ |
@@ -658,8 +624,6 @@
 | Tangara Music Player | https://www.cooltech.zone/tangara |
 | Tillitis Security Key | https://www.tillitis.se/ |
 | Velxio (Open Source Arduino Sim) | https://velxio.com/ |
-| Alexey Frunze SediCi 16-bit FPGA PC | https://hackaday.io/ |
-| pizero-openclaw | https://github.com/sebastianvkl/pizero-openclaw |
 | macless-haystack | https://github.com/dchristl/macless-haystack |
 | bitchat | https://github.com/jackjackbits/bitchat |
 | OpenGhost | https://github.com/xanderchinxyz/OpenGhost |
@@ -675,10 +639,7 @@
 |------|-----|
 | EDAboard Forum | https://www.edaboard.com/ |
 | Designer's Guide Community Forum | https://designers-guide.org/forum/ |
-| Cadence Community Forum | https://community.cadence.com/ |
-| FOSSi Element Chat | https://element.fossi-chat.org/ |
 | Open On-Chip Debugger (OpenOCD) | https://openocd.org/ |
-| ROHD (Intel Hardware in Dart) | https://intel.github.io/rohd-website/ |
 | RISCV.org | https://riscv.org/ |
 | libre-soc | https://libre-soc.org/ |
 | Keystone Framework | https://keystone-enclave.org/ |
