@@ -1,6 +1,28 @@
 # Chip design/ECE resources and stuff
 
 # 📚 VLSI / Open-Source Chip Design — Complete Resource List
+---
+## 📑 Table of Contents
+
+- [🧱 1. PDK & Process Technology](#1-pdk-process-technology)
+- [🛠️ 2. EDA Tools & Design Flows](#2-eda-tools-design-flows)
+- [⚙️ 3. RISC-V Cores & SoC Projects](#3-risc-v-cores-soc-projects)
+- [🤖 4. AI/ML Accelerators & Hardware for AI](#4-aiml-accelerators-hardware-for-ai)
+- [🔬 5. FPGA Tools, Boards & Projects](#5-fpga-tools-boards-projects)
+- [📐 6. Analog, RF & Mixed-Signal Design](#6-analog-rf-mixed-signal-design)
+- [🎓 7. University Courses & Curricula](#7-university-courses-curricula)
+- [🏫 8. Online Courses & Learning Platforms](#8-online-courses-learning-platforms)
+- [🧪 9. Hardware Description Languages (HDL) & High-Level Design](#9-hardware-description-languages-hdl-high-level-design)
+- [🖥️ 10. Simulators, Applets & Visualizers](#10-simulators-applets-visualizers)
+- [📦 11. Tapeout Programs & Fabrication Opportunities](#11-tapeout-programs-fabrication-opportunities)
+- [🌐 12. Open Hardware Communities & Initiatives](#12-open-hardware-communities-initiatives)
+- [📚 13. Research Groups & Academic Labs](#13-research-groups-academic-labs)
+- [🗂️ 14. Curated Lists & Awesome Collections](#14-curated-lists-awesome-collections)
+- [📖 15. Books, Articles & Blogs](#15-books-articles-blogs)
+- [🔧 16. Dev Tools, Programming & Productivity](#16-dev-tools-programming-productivity)
+- [🔩 17. Interesting DIY & Embedded Hardware Projects](#17-interesting-diy-embedded-hardware-projects)
+- [💬 18. Forums & Community Support](#18-forums-community-support)
+- [🗃️ 19. Datasets & Research Data](#19-datasets-research-data)
 
 ---
 
