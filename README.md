@@ -4,28 +4,29 @@
 
 ## 📑 Table of Contents
 
-- [🧱 1. PDK & Process Technology](#1-pdk-process-technology)
-- [🛠️ 2. EDA Tools & Design Flows](#2-eda-tools-design-flows)
-- [⚙️ 3. RISC-V Cores & SoC Projects](#3-risc-v-cores-soc-projects)
-- [🤖 4. AI/ML Accelerators & Hardware for AI](#4-aiml-accelerators-hardware-for-ai)
-- [🔬 5. FPGA Tools, Boards & Projects](#5-fpga-tools-boards-projects)
-- [📐 6. Analog, RF & Mixed-Signal Design](#6-analog-rf-mixed-signal-design)
-- [🎓 7. University Courses & Curricula](#7-university-courses-curricula)
-- [🏫 8. Online Courses & Learning Platforms](#8-online-courses-learning-platforms)
-- [🧪 9. Hardware Description Languages (HDL) & High-Level Design](#9-hardware-description-languages-hdl-high-level-design)
-- [🖥️ 10. Simulators, Applets & Visualizers](#10-simulators-applets-visualizers)
-- [📦 11. Tapeout Programs & Fabrication Opportunities](#11-tapeout-programs-fabrication-opportunities)
-- [🌐 12. Open Hardware Communities & Initiatives](#12-open-hardware-communities-initiatives)
-- [📚 13. Research Groups & Academic Labs](#13-research-groups-academic-labs)
-- [🗂️ 14. Curated Lists & Awesome Collections](#14-curated-lists-awesome-collections)
-- [📖 15. Books, Articles & Blogs](#15-books-articles-blogs)
-- [🔧 16. Dev Tools, Programming & Productivity](#16-dev-tools-programming-productivity)
-- [🔩 17. Interesting DIY & Embedded Hardware Projects](#17-interesting-diy-embedded-hardware-projects)
-- [💬 18. Forums & Community Support](#18-forums-community-support)
-- [🗃️ 19. Datasets & Research Data](#19-datasets-research-data)
+- [🧱 1. PDK & Process Technology](#s1)
+- [🛠️ 2. EDA Tools & Design Flows](#s2)
+- [⚙️ 3. RISC-V Cores & SoC Projects](#s3)
+- [🤖 4. AI/ML Accelerators & Hardware for AI](#s4)
+- [🔬 5. FPGA Tools, Boards & Projects](#s5)
+- [📐 6. Analog, RF & Mixed-Signal Design](#s6)
+- [🎓 7. University Courses & Curricula](#s7)
+- [🏫 8. Online Courses & Learning Platforms](#s8)
+- [🧪 9. Hardware Description Languages (HDL) & High-Level Design](#s9)
+- [🖥️ 10. Simulators, Applets & Visualizers](#s10)
+- [📦 11. Tapeout Programs & Fabrication Opportunities](#s11)
+- [🌐 12. Open Hardware Communities & Initiatives](#s12)
+- [📚 13. Research Groups & Academic Labs](#s13)
+- [🗂️ 14. Curated Lists & Awesome Collections](#s14)
+- [📖 15. Books, Articles & Blogs](#s15)
+- [🔧 16. Dev Tools, Programming & Productivity](#s16)
+- [🔩 17. Interesting DIY & Embedded Hardware Projects](#s17)
+- [💬 18. Forums & Community Support](#s18)
+- [🗃️ 19. Datasets & Research Data](#s19)
 
 ---
 
+<a name="s1"></a>
 ## 🧱 1. PDK & Process Technology
 
 ### Skywater 130nm
@@ -67,6 +68,7 @@
 
 ---
 
+<a name="s2"></a>
 ## 🛠️ 2. EDA Tools & Design Flows
 
 ### Full Flow Environments
@@ -139,6 +141,7 @@
 
 ---
 
+<a name="s3"></a>
 ## ⚙️ 3. RISC-V Cores & SoC Projects
 
 ### Major RISC-V Cores
@@ -192,6 +195,7 @@
 
 ---
 
+<a name="s4"></a>
 ## 🤖 4. AI/ML Accelerators & Hardware for AI
 
 | Name | URL |
@@ -231,6 +235,7 @@
 
 ---
 
+<a name="s5"></a>
 ## 🔬 5. FPGA Tools, Boards & Projects
 
 | Name | URL |
@@ -264,6 +269,7 @@
 
 ---
 
+<a name="s6"></a>
 ## 📐 6. Analog, RF & Mixed-Signal Design
 
 | Name | URL |
@@ -293,6 +299,7 @@
 
 ---
 
+<a name="s7"></a>
 ## 🎓 7. University Courses & Curricula
 
 ### UC Berkeley
@@ -371,6 +378,7 @@
 
 ---
 
+<a name="s8"></a>
 ## 🏫 8. Online Courses & Learning Platforms
 
 | Name | URL |
@@ -408,6 +416,7 @@
 
 ---
 
+<a name="s9"></a>
 ## 🧪 9. Hardware Description Languages (HDL) & High-Level Design
 
 | Name | URL |
@@ -416,65 +425,4 @@
 | MyHDL | https://www.myhdl.org/ |
 | Spade HDL | https://spade-lang.org/ |
 | TL-Verilog Projects (TL-X org) | https://github.com/TL-X-org/TL-V_Projects |
-| ROHD (Intel – Dart-based HDL) | https://intel.github.io/rohd-website/ |
-| HeteroCL (Python-based HLS) | https://github.com/cornell-zhang/heterocl |
-| Halide-to-Hardware (Stanford AHA) | https://github.com/StanfordAHA/Halide-to-Hardware |
-| Genesis2 (Stanford VLSI) | https://github.com/StanfordVLSI/Genesis2 |
-| CIRCT (LLVM/MLIR for HW) | https://github.com/llvm/circt |
-| MLIR | https://mlir.llvm.org/ |
-| Apache TVM | https://tvm.apache.org/ |
-| TVM-VTA | https://github.com/apache/tvm-vta |
-| FIRRTL – Adept Lab UCB | https://adept.eecs.berkeley.edu/projects/firrtl/ |
-| Leros (Accumulator Machine HDL) | https://github.com/leros-dev/leros |
-| HLSF Factory (SHARC Lab) | https://github.com/sharc-lab/HLSFactory |
-| GNN Builder (SHARC Lab) | https://github.com/sharc-lab/gnn-builder |
-| LightningSim (SHARC Lab) | https://github.com/sharc-lab/LightningSim |
-| Designing a Processor in Bluespec | https://svr-informal.cl.cam.ac.uk/wiki/display/BluespecEd/ |
-| PandA-bambu (HLS) | https://github.com/ferrandi/PandA-bambu |
-| open-logic | https://github.com/open-logic/open-logic |
-| Awesome HDL | https://github.com/drom/awesome-hdl |
-| HDL Awesome List | https://github.com/hdl/awesome |
-| XLS Playground (Google Colab) | https://colab.research.google.com/gist/proppy/5ca7ad39f7c72464c5f667adf11100eb/xls-playground-conda.ipynb |
-| Spacely Docs | https://github.com/SpacelyProject/spacely-docs |
-
----
-
-## 🖥️ 10. Simulators, Applets & Visualizers
-
-| Name | URL |
-|------|-----|
-| Falstad Circuit Simulator | https://www.falstad.com/circuit/ |
-| Ripes RISC-V Simulator | https://ripes.me/ |
-| Ripes GitHub | https://github.com/mortbopet/Ripes |
-| emulsiV (RISC-V Minimal Simulator) | https://brucedodson.github.io/emulsiV/ |
-| RISC-V CPU Visualizer | https://mostlykiguess.github.io/RISC-V-Processor-Implementation/ |
-| VisuAlgo (Algorithm Visualizer) | https://visualgo.net/en |
-| Data Structures Viz (USFCA) | https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
-| Logicly (Logic Gate Simulator) | https://logic.ly/ |
-| 8bitworkshop Verilog IDE | https://8bitworkshop.com/ |
-| VGA Playground | https://vga-playground.com/ |
-| Stixu Stick Diagrammer | https://stixu.io/ |
-| NN Visualizer (VLSI System Design) | https://nn-visualizer.vlsisystemdesign.com/ |
-| Spade Playground | https://spade-lang.org/playground/ |
-| Discrete 8-Bit ALU (Interactive 3D) | https://tmarhguy.com/ |
-| 8-bit ALU GitHub | https://github.com/tmarhguy/8bit-discrete-transistor-alu |
-| LeetGPU (GPU Programming Platform) | https://leetgpu.com/ |
-
----
-
-## 📦 11. Tapeout Programs & Fabrication Opportunities
-
-| Name | URL |
-|------|-----|
-| Tiny Tapeout | https://tinytapeout.com/ |
-| Tiny Tapeout 9 | https://zerotoasiccourse.com/post/tinytapeout09/ |
-| ttsky25a-tinyQV | https://github.com/TinyTapeout/ttsky25a-tinyQV |
-| Chipalooza Projects (Set 1) | https://github.com/RTimothyEdwards/chipalooza_projects_1 |
-| Chipalooza Projects (Set 2) | https://github.com/RTimothyEdwards/chipalooza_projects_2 |
-| tt07-bep-decode | https://github.com/DusterTheFirst/tt07-bep-decode |
-| Baochip-1x | https://github.com/baochip/baochip-1x |
-| Dabao Eval Board for Baochip-1x | https://github.com/baochip/dabao |
-| Minimal Fab | https://www.minimalfab.com/en/ |
-| MinimalFab Design Contest 2024 | https://codeberg.org/mole99/minimalfab-design-contest-2024 |
-| UofT ASIC Team – IC Hackathon | https://uoftasic.com/ |
-| OpenSemi Open-Sour
+| ROHD (Intel – Dart-based HDL) | https://intel.
