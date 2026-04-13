@@ -4,28 +4,29 @@
 
 ## 📑 Table of Contents
 
-- [🧱 1. PDK & Process Technology](#1-pdk-process-technology)
-- [🛠️ 2. EDA Tools & Design Flows](#2-eda-tools-design-flows)
-- [⚙️ 3. RISC-V Cores & SoC Projects](#3-risc-v-cores-soc-projects)
-- [🤖 4. AI/ML Accelerators & Hardware for AI](#4-aiml-accelerators-hardware-for-ai)
-- [🔬 5. FPGA Tools, Boards & Projects](#5-fpga-tools-boards-projects)
-- [📐 6. Analog, RF & Mixed-Signal Design](#6-analog-rf-mixed-signal-design)
-- [🎓 7. University Courses & Curricula](#7-university-courses-curricula)
-- [🏫 8. Online Courses & Learning Platforms](#8-online-courses-learning-platforms)
-- [🧪 9. Hardware Description Languages (HDL) & High-Level Design](#9-hardware-description-languages-hdl-high-level-design)
-- [🖥️ 10. Simulators, Applets & Visualizers](#10-simulators-applets-visualizers)
-- [📦 11. Tapeout Programs & Fabrication Opportunities](#11-tapeout-programs-fabrication-opportunities)
-- [🌐 12. Open Hardware Communities & Initiatives](#12-open-hardware-communities-initiatives)
-- [📚 13. Research Groups & Academic Labs](#13-research-groups-academic-labs)
-- [🗂️ 14. Curated Lists & Awesome Collections](#14-curated-lists-awesome-collections)
-- [📖 15. Books, Articles & Blogs](#15-books-articles-blogs)
-- [🔧 16. Dev Tools, Programming & Productivity](#16-dev-tools-programming-productivity)
-- [🔩 17. Interesting DIY & Embedded Hardware Projects](#17-interesting-diy-embedded-hardware-projects)
-- [💬 18. Forums & Community Support](#18-forums-community-support)
-- [🗃️ 19. Datasets & Research Data](#19-datasets-research-data)
+- [🧱 1. PDK & Process Technology](#cat-1)
+- [🛠️ 2. EDA Tools & Design Flows](#cat-2)
+- [⚙️ 3. RISC-V Cores & SoC Projects](#cat-3)
+- [🤖 4. AI/ML Accelerators & Hardware for AI](#cat-4)
+- [🔬 5. FPGA Tools, Boards & Projects](#cat-5)
+- [📐 6. Analog, RF & Mixed-Signal Design](#cat-6)
+- [🎓 7. University Courses & Curricula](#cat-7)
+- [🏫 8. Online Courses & Learning Platforms](#cat-8)
+- [🧪 9. Hardware Description Languages (HDL) & High-Level Design](#cat-9)
+- [🖥️ 10. Simulators, Applets & Visualizers](#cat-10)
+- [📦 11. Tapeout Programs & Fabrication Opportunities](#cat-11)
+- [🌐 12. Open Hardware Communities & Initiatives](#cat-12)
+- [📚 13. Research Groups & Academic Labs](#cat-13)
+- [🗂️ 14. Curated Lists & Awesome Collections](#cat-14)
+- [📖 15. Books, Articles & Blogs](#cat-15)
+- [🔧 16. Dev Tools, Programming & Productivity](#cat-16)
+- [🔩 17. Interesting DIY & Embedded Hardware Projects](#cat-17)
+- [💬 18. Forums & Community Support](#cat-18)
+- [🗃️ 19. Datasets & Research Data](#cat-19)
 
 ---
 
+<a id="cat-1"></a>
 ## 🧱 1. PDK & Process Technology
 
 ### Skywater 130nm
@@ -67,6 +68,7 @@
 
 ---
 
+<a id="cat-2"></a>
 ## 🛠️ 2. EDA Tools & Design Flows
 
 ### Full Flow Environments
@@ -110,6 +112,7 @@
 | Vaporview (VSCode Waveform Viewer) | https://github.com/Lramseyer/vaporview |
 | PyMTL Tutorial | https://www.csl.cornell.edu/courses/ece5745/ |
 | Universal Verification Methodology | https://www.accellera.org/activities/working-groups/uvm |
+| Pipelining RISC-V CPU with cocotb | https://www.cocotb.org/ |
 
 ### Layout & Physical Design
 | Name | URL |
@@ -139,6 +142,7 @@
 
 ---
 
+<a id="cat-3"></a>
 ## ⚙️ 3. RISC-V Cores & SoC Projects
 
 ### Major RISC-V Cores
@@ -192,6 +196,7 @@
 
 ---
 
+<a id="cat-4"></a>
 ## 🤖 4. AI/ML Accelerators & Hardware for AI
 
 | Name | URL |
@@ -231,6 +236,7 @@
 
 ---
 
+<a id="cat-5"></a>
 ## 🔬 5. FPGA Tools, Boards & Projects
 
 | Name | URL |
@@ -264,6 +270,7 @@
 
 ---
 
+<a id="cat-6"></a>
 ## 📐 6. Analog, RF & Mixed-Signal Design
 
 | Name | URL |
@@ -293,6 +300,7 @@
 
 ---
 
+<a id="cat-7"></a>
 ## 🎓 7. University Courses & Curricula
 
 ### UC Berkeley
@@ -371,6 +379,7 @@
 
 ---
 
+<a id="cat-8"></a>
 ## 🏫 8. Online Courses & Learning Platforms
 
 | Name | URL |
@@ -405,9 +414,11 @@
 | CS294/194-280 LLM Agents (Berkeley) | https://llmagents-learning.org/ |
 | Cadence Academic Network | https://www.cadence.com/en_US/home/company/academic-network.html |
 | NIEIT (India) | https://www.nielit.gov.in/ |
+| UNIC-CASS (IEEE CASS) | https://ieee-cas.org/universalization-ic-design-cass-unic-cass |
 
 ---
 
+<a id="cat-9"></a>
 ## 🧪 9. Hardware Description Languages (HDL) & High-Level Design
 
 | Name | URL |
@@ -439,6 +450,7 @@
 
 ---
 
+<a id="cat-10"></a>
 ## 🖥️ 10. Simulators, Applets & Visualizers
 
 | Name | URL |
@@ -459,9 +471,11 @@
 | Discrete 8-Bit ALU (Interactive 3D) | https://tmarhguy.com/ |
 | 8-bit ALU GitHub | https://github.com/tmarhguy/8bit-discrete-transistor-alu |
 | LeetGPU (GPU Programming Platform) | https://leetgpu.com/ |
+| Velxio | https://velxio.dev/ |
 
 ---
 
+<a id="cat-11"></a>
 ## 📦 11. Tapeout Programs & Fabrication Opportunities
 
 | Name | URL |
@@ -492,6 +506,7 @@
 
 ---
 
+<a id="cat-12"></a>
 ## 🌐 12. Open Hardware Communities & Initiatives
 
 | Name | URL |
@@ -522,6 +537,7 @@
 
 ---
 
+<a id="cat-13"></a>
 ## 📚 13. Research Groups & Academic Labs
 
 | Name | URL |
@@ -552,6 +568,7 @@
 
 ---
 
+<a id="cat-14"></a>
 ## 🗂️ 14. Curated Lists & Awesome Collections
 
 | Name | URL |
@@ -580,6 +597,7 @@
 
 ---
 
+<a id="cat-15"></a>
 ## 📖 15. Books, Articles & Blogs
 
 | Name | URL |
@@ -607,6 +625,7 @@
 
 ---
 
+<a id="cat-16"></a>
 ## 🔧 16. Dev Tools, Programming & Productivity
 
 | Name | URL |
@@ -631,6 +650,7 @@
 
 ---
 
+<a id="cat-17"></a>
 ## 🔩 17. Interesting DIY & Embedded Hardware Projects
 
 | Name | URL |
@@ -672,6 +692,7 @@
 
 ---
 
+<a id="cat-18"></a>
 ## 💬 18. Forums & Community Support
 
 | Name | URL |
@@ -688,6 +709,7 @@
 
 ---
 
+<a id="cat-19"></a>
 ## 🗃️ 19. Datasets & Research Data
 
 | Name | URL |
