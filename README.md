@@ -131,6 +131,7 @@
 | Espressif KiCad Libraries | https://github.com/espressif/kicad-libraries |
 | Circuit2TiKZ (schematic to LaTeX) | https://circuit2tikz.tf.fau.de/ |
 | setupEM (EM simulation setup) | https://github.com/VolkerMuehlhaus/setupEM |
+| Quickboards | https://quickboards.org/ |
 
 ### EDA Wikis & Overviews
 | Name | URL |
@@ -233,6 +234,8 @@
 | CHIPKIT (whatmough) | https://github.com/whatmough/CHIPKIT |
 | CS 217: Hardware Accelerators for ML | https://cs217.stanford.edu/ |
 | AutoDSE (UCLA VAST) | https://github.com/UCLA-VAST/AutoDSE |
+| Auto-Arch Tournament Blog Post | https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md |
+| NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning | https://research.nvidia.com/publication/2021-12_nvcell-standard-cell-layout-advanced-technology-nodes-reinforcement-learning |
 
 ---
 
@@ -267,6 +270,10 @@
 | emulsiV RISC-V Simulator | https://brucedodson.github.io/emulsiV/ |
 | Cornell ECE 6775 (FPGA) | https://github.com/cornell-ece6775 |
 | GOWIN Semiconductor | https://www.gowinsemi.com/ |
+| Soan Papdi FPGA (Pyjama Cafe) | https://pyjamacafe.com/fpga/ |
+| openFPGA (Analogue Developer) | https://www.analogue.co/developer |
+| Alexey Frunze's SediCi PC on FPGA | https://www.hackster.io/news/alexey-frunze-s-sedici-pc-is-a-16-bit-microcomputer-on-an-fpga-with-a-custom-built-cpu-c0637c1a64ea |
+| ps1.fpgas.online (PlayStation FPGA) | https://ps1.fpgas.online/fpgas/ |
 
 ---
 
@@ -297,6 +304,9 @@
 | openWSPR | https://github.com/openwspr/openwspr |
 | Tiny WSPR Encoder | https://github.com/Reverea/Tiny-WSPR-Encode |
 | Qiskit Metal (Quantum Hardware) | https://github.com/qiskit-community/qiskit-metal |
+| LELO_TEMP_SKY130A | https://analogicus.com/lelo_temp_sky130a/ |
+| From Schematic to Silicon: Mixed-Signal IC Design in Open-Source Flows | https://indico.cern.ch/event/1680490/ |
+| CERN KiCad Libraries | https://gitlab.com/ohwr/cern-kicad-libs |
 
 ---
 
@@ -376,6 +386,7 @@
 | Polimi Electronics Engineering | https://github.com/polimi-vlsi/electronics |
 | R. S. Ashwin Kumar Teaching | https://ashwinkumar.info/teaching |
 | EFCL Winter School 2026 | https://pulp-platform.org/efclwinter2026/ |
+| Gives orientation to EE students - students | https://www.chipschool.org/home/students |
 
 ---
 
@@ -415,6 +426,8 @@
 | Cadence Academic Network | https://www.cadence.com/en_US/home/company/academic-network.html |
 | NIEIT (India) | https://www.nielit.gov.in/ |
 | UNIC-CASS (IEEE CASS) | https://ieee-cas.org/universalization-ic-design-cass-unic-cass |
+| LLMLift + Autocomp Tutorial - ASPLOS 2026 | https://charleshong3.github.io/research/asplos2026-tutorial/ |
+| UNIC-CASS Home | https://unic-cass.github.io/ |
 
 ---
 
@@ -472,6 +485,8 @@
 | 8-bit ALU GitHub | https://github.com/tmarhguy/8bit-discrete-transistor-alu |
 | LeetGPU (GPU Programming Platform) | https://leetgpu.com/ |
 | Velxio | https://velxio.dev/ |
+| Cirkit Designer IDE | https://app.cirkitdesigner.com/project |
+| Velxio Article (CNX Software) | https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/ |
 
 ---
 
@@ -503,6 +518,8 @@
 | Open Quantum Design | https://openquantumdesign.org/ |
 | Berkeley Quantum Chip Course | https://ciqc.berkeley.edu/ |
 | UC Berkeley EE290 (Superconducting QC) | https://inst.eecs.berkeley.edu/~ee290/ |
+| Dabao Evaluation Board for Baochip-1x (Crowd Supply) | https://www.crowdsupply.com/baochip/dabao |
+| Open Quantum Design (GitHub Org) | https://github.com/OpenQuantumDesign |
 
 ---
 
@@ -534,6 +551,7 @@
 | Cadence Community | https://community.cadence.com/ |
 | Linux Foundation Projects | https://www.linuxfoundation.org/projects |
 | Open Platform for Enterprise AI (OPEA) | https://github.com/opea-project |
+| Open Hardware Repository | https://ohwr.org/ |
 
 ---
 
@@ -622,6 +640,8 @@
 | λ-2D Drawing as Programming (MIT Media Lab) | https://www.media.mit.edu/projects/lambda-2d/ |
 | FireBox – Warehouse-Scale Computer (USENIX) | https://www.usenix.org/conference/fast14/technical-sessions/presentation/firebox |
 | El Correo Libre Issue 92 | https://elcorreolibre.com/ |
+| ECG monitoring | https://bowald.com/ecg/ |
+| Open Source Rotary Cellphone | https://www.justine-haupt.com/rotarycellphone/ |
 
 ---
 
@@ -647,6 +667,7 @@
 | LeetCode Company-wise Problems | https://github.com/liquidslr/leetcode-company-wise-problems |
 | Math & Science Video Lectures | https://github.com/Developer-Y/math-science-video-lectures |
 | New Tools for Building Agents (OpenAI) | https://openai.com/index/new-tools-for-building-agents/ |
+| autoresearch | https://github.com/karpathy/autoresearch |
 
 ---
 
@@ -689,6 +710,7 @@
 | tensor.h (Tiny Tensor Lib in C) | https://github.com/apoorvnandan/tensor.h |
 | WiFi DensePose | https://github.com/ruvnet/wifi-densepose |
 | video2ascii | https://github.com/elijah0528/video2ascii |
+| Takahe | https://github.com/Zaneham/takahe |
 
 ---
 
