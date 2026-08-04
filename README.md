@@ -350,6 +350,7 @@
 | 6.375 Complex Digital Systems (2019) | https://csg.csail.mit.edu/6.375/ |
 | Nand2Tetris | https://www.nand2tetris.org/ |
 | Street-Fighting Mathematics (OCW) | https://ocw.mit.edu/courses/18-098-street-fighting-mathematics/ |
+| 6.11 Introductory Digital Systems Laboratory | https://web.mit.edu/6.111/www/f2016/ |
 
 ### Stanford
 | Name | URL |
