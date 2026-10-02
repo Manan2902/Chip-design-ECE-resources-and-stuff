@@ -41,9 +41,9 @@
 | Reddit – Skywater 130nm Q&A | https://www.reddit.com/r/chipdesign/comments/1ih8nql/ |
 | EDAboard – Skywater PDK & Cadence | https://www.edaboard.com/threads/skywater-130nm-pdk-and-cadence.403925/ |
 | Gonzaga Univ. VLSI Install Guide | http://web02.gonzaga.edu/faculty/talarico/vlsi/install2.html |
-| OpenRAM Sky130 Fixes | https://github.com/carloscj03/openram-sky130-fixes |
 | LELO Temp Sky130A Design | https://github.com/wulffern/lelo_temp_sky130a |
 | LELO Temp Python Design Script | https://github.com/wulffern/lelo_temp_sky130a/blob/main/design/LELO_TEMP_SKY130A/LELOTEMP_CMP.py |
+| OpenRAM Sky130 Fixes | https://github.com/carloscl03/openram-sky130-fixes |
 
 ### IHP & Other PDKs
 | Name | URL |
@@ -65,7 +65,8 @@
 | Minimal Fab | https://www.minimalfab.com/en/ |
 | MinimalFab Design Contest 2024 | https://codeberg.org/mole99/minimalfab-design-contest-2024 |
 | Ngspice SkyWater Notes | https://ngspice.sourceforge.io/applic.html |
-
+| EZ Library – ETH Zurich Standard-Cell Library | https://iip.ethz.ch/ez-library.html |
+| Tholin's Own Standard Cell Library (GF180MCU) | https://www.crowdsupply.com/wafer-space/gf180mcu-run-3/updates/a-need-for-speed-tholins-own-standard-cell-library |
 ---
 
 <a id="cat-2"></a>
@@ -85,6 +86,8 @@
 | Open Circuit Design (Magic/Netgen) | http://opencircuitdesign.com/ |
 | Cloud-V FPGA Cloud | https://cloud-v.co/ |
 | RTL2GDS Demo (enicslabs) | https://github.com/enics-labs/rtl2gds-demo |
+| Partcl — GPU Accelerated EDA | https://partcl.com/ |
+| OpenChip – Natural-Language to RTL Project | https://github.com/harrrshall/openchip |
 
 ### Synthesis & Place-and-Route
 | Name | URL |
@@ -132,6 +135,11 @@
 | Circuit2TiKZ (schematic to LaTeX) | https://circuit2tikz.tf.fau.de/ |
 | setupEM (EM simulation setup) | https://github.com/VolkerMuehlhaus/setupEM |
 | Quickboards | https://quickboards.org/ |
+| tscircuit – React for Circuits | https://github.com/tscircuit/tscircuit |
+| JLC2KiCad Library | https://github.com/TousstNicolas/JLC2KiCad_lib |
+| DAC26 DRC Benchmark | https://github.com/ASU-VDA-Lab/DAC26_DRC_Benchmark |
+| M3D Routing Challenge | https://github.com/partcleda/eda-3d-routing-challenge |
+
 
 ### EDA Wikis & Overviews
 | Name | URL |
@@ -194,6 +202,7 @@
 | Chipyard Lab | https://ucb-ee290c.github.io/tutorials/chipyard/chipyard-lab/ |
 | Chipyard Documentation | https://chipyard.readthedocs.io/en/latest/ |
 | Cornell C2S2 Tapeout | https://cornell-c2s2.github.io/ |
+| IOb-SoC-Linux | https://github.com/IObundle/soc-linux |
 
 ---
 
@@ -236,6 +245,12 @@
 | AutoDSE (UCLA VAST) | https://github.com/UCLA-VAST/AutoDSE |
 | Auto-Arch Tournament Blog Post | https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md |
 | NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning | https://research.nvidia.com/publication/2021-12_nvcell-standard-cell-layout-advanced-technology-nodes-reinforcement-learning |
+| Sky130 High-Performance MAC Accelerator | https://github.com/EUB-RN/sky130_high_performance_mac |
+| 2D Systolic Array | https://github.com/bodsvei/2D-systolic-array |
+| openTPU | https://github.com/FeSens/openTPU |
+| MAC Array-based DNN Accelerator | https://github.com/Shingyy/MAC-Array-based-DNN-Accelerator |
+| GreenMatrix – FPGA AI Matrix Accelerator | https://github.com/ayanayvleo/GreenMatrix |
+| Sky130 High-Performance MAC Accelerator | https://github.com/EUB-RN/sky130_high_performance_mac |
 
 ---
 
@@ -274,6 +289,7 @@
 | openFPGA (Analogue Developer) | https://www.analogue.co/developer |
 | Alexey Frunze's SediCi PC on FPGA | https://www.hackster.io/news/alexey-frunze-s-sedici-pc-is-a-16-bit-microcomputer-on-an-fpga-with-a-custom-built-cpu-c0637c1a64ea |
 | ps1.fpgas.online (PlayStation FPGA) | https://ps1.fpgas.online/fpgas/ |
+| Neural Networks on FPGA | https://www.youtube.com/playlist?list=PLJePd8QU_LYKZwJnByZ8FHDg5l1rXtcIq |
 
 ---
 
@@ -307,6 +323,8 @@
 | LELO_TEMP_SKY130A | https://analogicus.com/lelo_temp_sky130a/ |
 | From Schematic to Silicon: Mixed-Signal IC Design in Open-Source Flows | https://indico.cern.ch/event/1680490/ |
 | CERN KiCad Libraries | https://gitlab.com/ohwr/cern-kicad-libs |
+| IHP SG13G2 AMS Chip Design Tutorial | https://iic-jku.github.io/ihp-sg13g2-ams-chip-template/index.html |
+| IHP SG13G2 AMS Chip Design Template | https://github.com/iic-jku/ihp-sg13g2-ams-chip-template |
 
 ---
 
@@ -342,6 +360,8 @@
 | HeteroCL (Cornell Zhang Lab) | https://github.com/cornell-zhang/heterocl |
 | ECE510 Challenges | https://github.com/nkanderson/ECE510-challenges |
 | Cornell VLSI (Introduction) | https://www.csl.cornell.edu/ |
+| Cornell Custom Silicon Systems – Chip Gallery | https://www.c2s2.dev/chip-gallery |
+| Cornell Virtual Workshop – Multithreading | https://cvw.cac.cornell.edu/parallel/memory-access/multithreading |
 
 ### MIT
 | Name | URL |
@@ -351,6 +371,7 @@
 | Nand2Tetris | https://www.nand2tetris.org/ |
 | Street-Fighting Mathematics (OCW) | https://ocw.mit.edu/courses/18-098-street-fighting-mathematics/ |
 | 6.11 Introductory Digital Systems Laboratory | https://web.mit.edu/6.111/www/f2016/ |
+| Missing Semester 2026 – Course Shell | https://missing.csail.mit.edu/2026/course-shell/ |
 
 ### Stanford
 | Name | URL |
@@ -359,6 +380,14 @@
 | CS 217: Hardware Accel. for ML | https://cs217.stanford.edu/ |
 | Stanford VLSI Research Group | https://vlsi.stanford.edu/research |
 | Stanford STORM Genie | https://storm.genie.stanford.edu/ |
+| CS149 – Parallel Computing | https://gfxcourses.stanford.edu/cs149/fall25 |
+| CS149 – Parallel Computing | https://gfxcourses.stanford.edu/cs149/fall25/lecture/gpuarch/ |
+
+
+### Carnegie Mellon University
+| Name | URL |
+|------|-----|
+| 15-418/15-618 – Parallel Computer Architecture and Programming | https://www.cs.cmu.edu/~418/ |
 
 ### Columbia University
 | Name | URL |
@@ -388,6 +417,9 @@
 | R. S. Ashwin Kumar Teaching | https://ashwinkumar.info/teaching |
 | EFCL Winter School 2026 | https://pulp-platform.org/efclwinter2026/ |
 | Gives orientation to EE students - students | https://www.chipschool.org/home/students |
+| CS 179: GPU Programming | https://courses.cms.caltech.edu/cs179/ |
+| ECE 408 – Applied Parallel Programming | https://courses.grainger.illinois.edu/ece408/su2026/ |
+| CIS 565 – GPU Programming and Architecture | https://cis565-fall-2017.github.io/ |
 
 ---
 
@@ -429,6 +461,11 @@
 | UNIC-CASS (IEEE CASS) | https://ieee-cas.org/universalization-ic-design-cass-unic-cass |
 | LLMLift + Autocomp Tutorial - ASPLOS 2026 | https://charleshong3.github.io/research/asplos2026-tutorial/ |
 | UNIC-CASS Home | https://unic-cass.github.io/ |
+| Applied Accelerated Artificial Intelligence | https://www.youtube.com/playlist?list=PLyqSpQzTE6M9LibNqhhCYLDvfVGhcRDN5 |
+| Parallel Programming for FPGAs – Projects and Labs | https://pp4fpgas.readthedocs.io/en/latest/ |
+| Parallel Programming for FPGAs | https://kastner.ucsd.edu/hlsbook/ |
+| CS231n – Deep Learning for Computer Vision | https://cs231n.github.io/convolutional-networks/ |
+| Machine Learning Systems – Volume I Lecture Slides | https://mlsysbook.ai/slides/vol1.html |
 
 ---
 
@@ -488,6 +525,7 @@
 | Velxio | https://velxio.dev/ |
 | Cirkit Designer IDE | https://app.cirkitdesigner.com/project |
 | Velxio Article (CNX Software) | https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/ |
+| HiEQ – Chip Layout & Dieshot Gallery | https://hieq-home404.pages.dev/#/layout |
 
 ---
 
@@ -521,6 +559,7 @@
 | UC Berkeley EE290 (Superconducting QC) | https://inst.eecs.berkeley.edu/~ee290/ |
 | Dabao Evaluation Board for Baochip-1x (Crowd Supply) | https://www.crowdsupply.com/baochip/dabao |
 | Open Quantum Design (GitHub Org) | https://github.com/OpenQuantumDesign |
+| ttSky – CRYPTOGRAPHY DESTROYER OMEGA INFINITY | https://github.com/PolloXDDD/ttsky-CRYPTOGRAPHY-DESTROYER-OMEGA-INFINITY |
 
 ---
 
@@ -553,6 +592,7 @@
 | Linux Foundation Projects | https://www.linuxfoundation.org/projects |
 | Open Platform for Enterprise AI (OPEA) | https://github.com/opea-project |
 | Open Hardware Repository | https://ohwr.org/ |
+| IEEE SSCS Open-Source Ecosystem – Code-a-Chip | https://github.com/sscs-ose/sscs-ose-code-a-chip.github.io |
 
 ---
 
@@ -643,6 +683,17 @@
 | El Correo Libre Issue 92 | https://elcorreolibre.com/ |
 | ECG monitoring | https://bowald.com/ecg/ |
 | Open Source Rotary Cellphone | https://www.justine-haupt.com/rotarycellphone/ |
+| Velxio – Open-Source Arduino/Raspberry Pi/ESP32 Simulator (CNX Software) | https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/ |
+| From Taylor Series to Silicon – ROM-less CORDIC | https://bitbangingbytes.substack.com/p/from-taylor-series-to-silicon-building?r=d0mv1&utm_campaign=post&utm_medium=web |
+| Dissecting the Apple M1 GPU | https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html |
+| Claude – Asynchronous I2C Circuit Implementation | https://qiita.com/jun1okamura/items/928e6e1464e75a68b394e6 |
+| Advanced Skylake Deep Dive – Microarchitecture | https://www.janestreet.com/tech-talks/microarchitecture/ |
+| Build a Tapeout-Ready Open-Source AMS Chip with one make Command | https://www.reddit.com/r/chipdesign/comments/1vf4fne/build_a_tapeoutready_opensource_ams_chip_with_one/?rdt=56261 |
+| Tardigrade – ASIC Synthesis for the Age of AI-Driven Chip Design | https://www.zeroasic.com/blog/tardigrade_launch |
+| Verilogで学ぶCPU自作入門 | https://speakerdeck.com/uyuki234/verilog-de-manabu-cpu-jisaku-nyuumon |
+| Modern Microprocessors – A 90-Minute Guide | https://www.lighterra.com/papers/modernmicroprocessors/ |
+| IOb-SoC-Linux – Open-Source Linux-Capable RISC-V SoC Template | https://www.preprints.org/manuscript/202609.1343 |
+| A³ – Agentic Approaches to Architecture | https://agentic-arch.org/index.html |
 
 ---
 
@@ -669,6 +720,7 @@
 | Math & Science Video Lectures | https://github.com/Developer-Y/math-science-video-lectures |
 | New Tools for Building Agents (OpenAI) | https://openai.com/index/new-tools-for-building-agents/ |
 | autoresearch | https://github.com/karpathy/autoresearch |
+| Microchip MPLAB XC Compilers & Machine Learning Development Suite | https://www.microchip.com/en-us/about/news-releases/products/microchip-expands-developer-access-with-free-mplab-xc-compilers-and-mplab-machine-learning-development-suite |
 
 ---
 
@@ -712,6 +764,7 @@
 | WiFi DensePose | https://github.com/ruvnet/wifi-densepose |
 | video2ascii | https://github.com/elijah0528/video2ascii |
 | Takahe | https://github.com/Zaneham/takahe |
+| Kode Dot – Programmable Pocket Device | https://kode.diy/ |
 
 ---
 
