@@ -799,3 +799,141 @@
 | CleanCadencePlots (Google Drive) | https://drive.google.com/drive/folders/CleanCadencePlots |
 | Globus (Research Data Transfer) | https://www.globus.org/ |
 | Hugging Face | https://huggingface.co/ |
+
+---
+
+- [▶️ 20. YouTube Playlists & Videos](#cat-20)
+
+<a id="cat-20"></a>
+## ▶️ 20. YouTube Playlists & Videos
+
+### University Courses & Computer Science
+| Name | URL |
+|------|-----|
+| 21-228 – Discrete Mathematics | https://youtube.com/playlist?list=PL0j-r-omG7i3P0o5RLy5yEh7WMe-l04SO |
+| C++ Programming – Stanford | https://youtube.com/playlist?list=PLBBA9D02B544B48CB |
+| Stanford Scientific Writing | https://youtube.com/playlist?list=PLGNyy-rO8GoM7uUxVfYJbccEO8eNFfr1M |
+| The Fourier Transforms and Its Applications | https://youtube.com/playlist?list=PLB24BC7956EE040CD |
+| Stanford CS149 – Parallel Computing | https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp |
+| UC Berkeley CS10 – Beauty and Joy of Computing | https://youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4 |
+| Calculus 1 – Math 1A – UC Berkeley | https://youtube.com/playlist?list=PLShth7hrtLHPz41qo1XlGZRNl9pcVVTfj |
+| EECS 70 – Discrete Mathematics and Probability Theory – UC Berkeley | https://youtube.com/playlist?list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd |
+| STAT 2.2x – Probability – UC Berkeley | https://youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl |
+| Math 55 – Discrete Mathematics – UC Berkeley | https://youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC |
+| CS 61B – Data Structures – UC Berkeley | https://youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8 |
+| CS 61C – Great Ideas in Computer Architecture – UC Berkeley | https://youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk |
+| Statistics 21 – UC Berkeley | https://youtube.com/playlist?list=PLk6Z3_JllTRwm6Td-S7VUDLQjrxaLLdzE |
+| UC Berkeley CS10 – Beauty and Joy of Computing | https://youtube.com/playlist?list=PLECBD29A17AAF6EF9 |
+| Embedded Systems | https://youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC |
+| MIT 6.004 – Computation Structures | https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2 |
+
+### Computer Architecture, CPU & RISC-V
+| Name | URL |
+|------|-----|
+| Programming Heterogeneous Computing Systems with GPUs and Other Accelerators | https://youtube.com/playlist?list=PL5Q2soXY2Zi-qSKahS4ofaEwYl7_qp9mw |
+| Introduction to Computer Architecture | https://youtube.com/playlist?list=PLxNPSjHT5qvti3DKL_ytbkNdWEcIFb4ku |
+| Computer Architecture – Berkeley | https://youtube.com/playlist?list=PLHT49ZYxKjt1jBRl1qXI591cWqUolpnxb |
+| Fall 2020 – Computer Architecture – ETH Zurich | https://youtube.com/playlist?list=PL5PHm2jkkXmh9whD2N-llDojSv8urEgIK |
+| Fall 2021 – Computer Architecture – ETH Zurich | https://youtube.com/playlist?list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx |
+| Processor Architecture | https://youtube.com/playlist?list=PLNrZ57svi8FpW1ibXjM6gZnTN7UFGiMT3 |
+| Processor Design | https://youtube.com/playlist?list=PL6kkmRk9W2twvvziFK43TkRrFB3blmA6X |
+| RISC-V Processor Design Course | https://youtube.com/playlist?list=PLRDeZtyULZWgMGOpZxxIhsRzCFyqhQ_U8 |
+| RISC-V Microarchitecture – David Harris & Sarah Harris | https://youtube.com/playlist?list=PLhA3DoZr6boVQy9Pz-aPZLH-rA6DvUidB |
+| Building a CPU From Scratch | https://youtube.com/playlist?list=PLilenfQGj6CEG6iZ4TQJ10PI7pCWsy1AO |
+| 8-Bit CPU | https://youtube.com/playlist?list=PLZlHzKk21aImqCiV71iE2I1dUE5LNejQk |
+| RISC-V Single Cycle Core in Verilog | https://youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc |
+| Writing a 6502 in Verilog | https://youtube.com/playlist?list=PLGTIvEdBrUVnng1HLEQUlTR-3jaAZR2hH |
+| An 8-Bit TTL CPU + GPU | https://youtube.com/playlist?list=PL75A1967B78B0D5A4 |
+| FireSim and Chipyard Tutorial | https://youtube.com/playlist?list=PL-YKJjRMRb9xe1RP4uoM69CRyXZZFy2ta |
+
+### Digital Design, Verilog & VLSI/ASIC
+| Name | URL |
+|------|-----|
+| EE130 – Introduction to Integrated Circuit Devices – UC Berkeley | https://youtube.com/playlist?list=PLZHcIYJIAiQiw-2BsC79s96H_VCcKR8xu |
+| Digital Integrated Circuits – UC Berkeley | https://youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD |
+| ECE 3300 – Digital Circuit Design Using Verilog | https://youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr |
+| Digital VLSI IC Design | https://youtube.com/playlist?list=PLqDc5oN3Cb_nNtT2H-5_pNpzglkt25dEv |
+| Digital Design in Cadence | https://youtube.com/playlist?list=PLOoMbgJWtq7bPVm6fuCsyOWsABMac45B5 |
+| RTL-to-GDSII Flow – Hands-on with EDA Tools | https://youtube.com/playlist?list=PLC7JCwKQnjL5QPkGGEtO2TFAW9oW8c_W3 |
+| Digital Integrated Circuits | https://youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me |
+| Digital VLSI Design (RTL to GDS) | https://youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G |
+| Digital ASIC Design with Verilog | https://youtube.com/playlist?list=PLfGJEQLQIDBN0VsXQ68_FEYyqcym8CTDN |
+| Learn IC Design from Basics | https://youtube.com/playlist?list=PL0-xus8sJBCRXKoj2vLLnOK8KDWKpC_HH |
+| SoC Physical Design | https://youtube.com/playlist?list=PL0-xus8sJBCTmG_gv4SHc5_3ofdjEZDDo |
+| Advanced Process Technologies | https://youtube.com/playlist?list=PLZU5hLL_713x06MZ4OwMwnYGEeszuckZK |
+| RTL2GDS Demos | https://youtube.com/playlist?list=PLZU5hLL_713zf_i38C7uLu5pUz5wTjKul |
+
+### Analog & Mixed-Signal IC Design
+| Name | URL |
+|------|-----|
+| Amplifiers and Op-Amps | https://youtube.com/playlist?list=PLXb3r5ny8_1VjKAyK_Zf-wFK6Z03zIytd |
+| Circuits for Beginners | https://youtube.com/playlist?list=PLXb3r5ny8_1W47guxn4WBmzV1-yPneFpv |
+| Transistors | https://youtube.com/playlist?list=PLXb3r5ny8_1X7Ph5vivwAmILwI42OVv94 |
+| Foundations of Mixed-Signal IC Design | https://youtube.com/playlist?list=PL6J7NJyvo5nC8HLVLhgLxl38uHvxnT__Q |
+| Razavi Electronics – All Lectures | https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU |
+| EE610 – Analog VLSI Circuits | https://youtube.com/playlist?list=PLP-rjhz_nIi5rfzd_o7fantey3CSOixBi |
+| EE698I – Mixed-Signal IC Design | https://youtube.com/playlist?list=PLP-rjhz_nIi4DYepQ5tNcEvpEs9rjUBko |
+| Microelectronic Lab – IISc Bangalore | https://youtube.com/playlist?list=PLwxuOFKb1FOD9ocHiVeQdU_L_MbRD--VU |
+
+### AI, ML, GPU & Hardware Acceleration
+| Name | URL |
+|------|-----|
+| Neural Networks on FPGA | https://youtube.com/playlist?list=PLJePd8QU_LYKZwJnByZ8FHDg5l1rXtcIq |
+| Applied Accelerated Artificial Intelligence | https://youtube.com/playlist?list=PLyqSpQzTE6M9LibNqhhCYLDvfVGhcRDN4 |
+| CS285 – Deep Reinforcement Learning | https://youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps |
+| CS285 – Deep Reinforcement Learning | https://youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH |
+| LLM Agents MOOC | https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc |
+| CS 194/294 – LLM Agents | https://youtube.com/playlist?list=PLGK6tAsp1smbj8Ga4JHcgzGNbXArity-c |
+| HLS and Automated Compilation from Algorithms to Customized Accelerators | https://youtube.com/playlist?list=PLp5Yn4AjauyGjfrWFkKQlk8s9ABTB0TkW |
+| Stanford CS198-126 – Modern Computer Vision | https://youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5 |
+| Neural Networks: Zero to Hero | https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ |
+| CUDA Programming | https://youtube.com/playlist?list=PLU0zjpa44nPXddA_hWV1U8oO7AevFgXnT |
+| GPU MODE | https://youtube.com/@gpumode |
+
+### FPGA, Embedded & Hardware Projects
+| Name | URL |
+|------|-----|
+| 100 Days of FPGA | https://youtube.com/playlist?list=PL_eykaGiPP1HGc1qYqUdhdRKdJLooXKij |
+| Prof. Bruce Land – FPGA Lectures | https://youtube.com/playlist?list=PLJ1LeUHJNHKhhKJQ-oFYcefHJ7e0TI8jn |
+| Embedded Systems | https://youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC |
+| Raspberry Pi Pico Lectures | https://youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ |
+| Microcontrollers | https://youtube.com/playlist?list=PLxLxbi4e2mYFkOe5whDbd8IzBVd1opbMb |
+| PCB Design | https://youtube.com/playlist?list=PLECCF3FBBE13BC85E |
+| PCB Design Principles and Practices using Altium Designer | https://youtube.com/playlist?list=PL_UUr-UkFMWRXeJ2mKt5jidU5hId4-gwY |
+| How to Design & Build Your Own Board | https://youtube.com/playlist?list=PLXvLToQzgzdea0sQXmpY8k4tfiXpkYIwO |
+
+### Systems, Programming & Security
+| Name | URL |
+|------|-----|
+| CS161 – Memory Safety, x86 Assembly and Call Stack | https://youtube.com/playlist?list=PLfBkt1-_BHX_R0dlFGLnAxOEJtWXahfdN |
+| CppCon 2021 – Back to Basics | https://youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI |
+| Chill Kernel Hacking for Fun | https://youtube.com/playlist?list=PLOsF-OO4qVOT6qtNKd4vY3s1ugP_yAw-G |
+| Hardware Security Tutorial | https://youtube.com/playlist?list=PLPokM2qEmTDClgPTX_GOLeMZkuf7o38yS |
+| Engineer Ari Mahpour | https://youtube.com/playlist?list=PL3aaAq2OJU5EWPZa8aP6LIcT3znXEaS0i |
+
+### Mathematics & Foundations
+| Name | URL |
+|------|-----|
+| Differential & Integral Calculus – Math 31A – UCLA | https://youtube.com/playlist?list=PL1BE3027EF549C7D1 |
+| Linear Algebra & Differential Equations – Math 54 – UC Berkeley | https://youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob |
+| Differential Equations – Professor Leonard | https://youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_ |
+
+### Chip Design Tutorials & Workshops
+| Name | URL |
+|------|-----|
+| DDCA Problem-Solving Sessions | https://youtube.com/playlist?list=PL5Q2soXY2Zi-yo9kK-BKrq11ykNKkVEpd |
+| Workshop on Open Source EDA Technologies (WOSET) | https://youtube.com/playlist?list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV |
+| RTL2GDS Demos | https://youtube.com/playlist?list=PLZU5hLL_713zf_i38C7uLu5pUz5wTjKul |
+| RTL-to-GDSII Flow – Hands-on with EDA Tools | https://youtube.com/playlist?list=PLC7JCwKQnjL5QPkGGEtO2TFAW9oW8c_W3 |
+| Digital VLSI Design (RTL to GDS) | https://youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G |
+
+### Additional Chip Design / Electronics Playlists
+| Name | URL |
+|------|-----|
+| Atik – Transformer Accelerator Benchmark Videos | https://youtube.com/playlist?list=PL6v0daaIvQGvxYVnezbRdfBysHe-s8BjE |
+| YouTube Playlist | https://youtube.com/playlist?list=PLmK06TkPUUKo-2LmZfhBpbcLTjFOxk2WJ |
+| YouTube Playlist | https://youtube.com/playlist?list=PL3lzWpMir85md5miplzcRziTzs5D5p6EW |
+| YouTube Playlist | https://youtube.com/playlist?list=PL6J7NJyvo5nDzRIWMMjW_xkMAZzi2SodD |
+| YouTube Playlist | https://youtube.com/playlist?list=PL45ZEriClcTp79IptvZWJqUmhjypUz_44 |
+| YouTube Playlist | https://youtube.com/playlist?list=PL3aaAq2OJU5ERrRd2I0LBaTdIy8DNAN2 |
+| YouTube Playlist | https://youtube.com/playlist?list=PLtKLCgpXTDhA4u3rsWr-hVzvZcC-StJZe |
