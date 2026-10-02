@@ -932,9 +932,8 @@
 | Name | URL |
 |------|-----|
 | Atik – Transformer Accelerator Benchmark Videos | https://youtube.com/playlist?list=PL6v0daaIvQGvxYVnezbRdfBysHe-s8BjE |
-| YouTube Playlist | https://youtube.com/playlist?list=PLmK06TkPUUKo-2LmZfhBpbcLTjFOxk2WJ |
-| YouTube Playlist | https://youtube.com/playlist?list=PL3lzWpMir85md5miplzcRziTzs5D5p6EW |
-| YouTube Playlist | https://youtube.com/playlist?list=PL6J7NJyvo5nDzRIWMMjW_xkMAZzi2SodD |
-| YouTube Playlist | https://youtube.com/playlist?list=PL45ZEriClcTp79IptvZWJqUmhjypUz_44 |
-| YouTube Playlist | https://youtube.com/playlist?list=PL3aaAq2OJU5ERrRd2I0LBaTdIy8DNAN2 |
-| YouTube Playlist | https://youtube.com/playlist?list=PLtKLCgpXTDhA4u3rsWr-hVzvZcC-StJZe |
+| Integrated Analog Systems course at Aalto University | https://youtube.com/playlist?list=PLmK06TkPUUKo-2LmZfhBpbcLTjFOxk2WJ |
+| Transistor Primitives by G.A. Rincon Mora | https://youtube.com/playlist?list=PL3lzWpMir85md5miplzcRziTzs5D5p6EW |
+| CASS/SSCS Technology | https://youtube.com/playlist?list=PL6J7NJyvo5nDzRIWMMjW_xkMAZzi2SodD |
+| Introduction to Physical Database by Prof. Austin Rovinski | https://youtube.com/playlist?list=PL45ZEriClcTp79IptvZWJqUmhjypUz_44 |
+| Spring 2024 by Columbia VLSI Design Lab Course | https://youtube.com/playlist?list=PLtKLCgpXTDhA4u3rsWr-hVzvZcC-StJZe |
