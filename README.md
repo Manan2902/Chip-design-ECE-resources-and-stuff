@@ -23,6 +23,7 @@
 - [🔩 17. Interesting DIY & Embedded Hardware Projects](#cat-17)
 - [💬 18. Forums & Community Support](#cat-18)
 - [🗃️ 19. Datasets & Research Data](#cat-19)
+- [▶️ 20. YouTube Playlists & Videos](#cat-20)
 
 ---
 
