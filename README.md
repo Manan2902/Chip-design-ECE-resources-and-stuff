@@ -89,6 +89,8 @@
 | RTL2GDS Demo (enicslabs) | https://github.com/enics-labs/rtl2gds-demo |
 | Partcl — GPU Accelerated EDA | https://partcl.com/ |
 | OpenChip – Natural-Language to RTL Project | https://github.com/harrrshall/openchip |
+| Ignytion.io – Software-Driven Silicon Design | https://ignytion.io/ |
+
 
 ### Synthesis & Place-and-Route
 | Name | URL |
@@ -140,6 +142,9 @@
 | JLC2KiCad Library | https://github.com/TousstNicolas/JLC2KiCad_lib |
 | DAC26 DRC Benchmark | https://github.com/ASU-VDA-Lab/DAC26_DRC_Benchmark |
 | M3D Routing Challenge | https://github.com/partcleda/eda-3d-routing-challenge |
+| ProtoFlow – AI-Powered PCB Design | https://www.protoflow.ai/ |
+| Circuit Figure Generator (cirfig_gen) | https://github.com/KwantaeKim/cirfig_gen |
+| TraceMaker | https://github.com/DingoOz/TraceMaker |
 
 
 ### EDA Wikis & Overviews
@@ -181,6 +186,7 @@
 | 3-Wide RISC-V OOO Processor | https://github.com/aritramanna/3-Wide-RISC-V-OOO-RV32-IM-Processor |
 | rsd (RISC-V Out-of-Order) | https://github.com/rsd-devel/rsd |
 | dummy32 | https://github.com/satishashank/dummy32 |
+| OpenCores IP – Verilog/VHDL IP Core Collection | https://github.com/klyone/opencores-ip |
 
 ### SoC Platforms
 | Name | URL |
@@ -291,6 +297,8 @@
 | Alexey Frunze's SediCi PC on FPGA | https://www.hackster.io/news/alexey-frunze-s-sedici-pc-is-a-16-bit-microcomputer-on-an-fpga-with-a-custom-built-cpu-c0637c1a64ea |
 | ps1.fpgas.online (PlayStation FPGA) | https://ps1.fpgas.online/fpgas/ |
 | Neural Networks on FPGA | https://www.youtube.com/playlist?list=PLJePd8QU_LYKZwJnByZ8FHDg5l1rXtcIq |
+| Digilent Basys 3 FPGA Viewer | https://fpgadot.vercel.app/ |
+| FPGA CPU News – FPGA CPU Resources and Projects | http://www.fpgacpu.org/index.html |
 
 ---
 
@@ -349,6 +357,11 @@
 | UCB-BAR Gemmini | https://github.com/ucb-bar/gemmini |
 | UCB Chipyard Lab Tutorial | https://ucb-ee290c.github.io/tutorials/chipyard/chipyard-lab/ |
 
+### University of Michigan
+| Name | URL |
+| -----|-----|
+| EECS 498 AASE – Applied Agentic Software Engineering | https://eecs498-aase.github.io/ |
+
 ### Cornell University
 | Name | URL |
 |------|-----|
@@ -363,6 +376,8 @@
 | Cornell VLSI (Introduction) | https://www.csl.cornell.edu/ |
 | Cornell Custom Silicon Systems – Chip Gallery | https://www.c2s2.dev/chip-gallery |
 | Cornell Virtual Workshop – Multithreading | https://cvw.cac.cornell.edu/parallel/memory-access/multithreading |
+| CS 3410 – Computer System Organization and Programming (Fall 2026) | https://www.cs.cornell.edu/courses/cs3410/2026fa/schedule.html |
+
 
 ### MIT
 | Name | URL |
@@ -398,6 +413,7 @@
 | EE 6350 Spring 2023 | https://www.ee.columbia.edu/~kinget/EE6350_S23/ |
 | CSEE E6861y – CAD of Digital Systems | https://www.cs.columbia.edu/~sedwards/classes/2022/6861y-spring/ |
 | ESP (Columbia SLD Lab) | https://github.com/sld-columbia/esp |
+| COMS 6998 · AI-Native Computing | https://wan-research-group.github.io/coms6998-f26/index.html |
 
 ### Other Universities
 | Name | URL |
@@ -527,6 +543,8 @@
 | Cirkit Designer IDE | https://app.cirkitdesigner.com/project |
 | Velxio Article (CNX Software) | https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/ |
 | HiEQ – Chip Layout & Dieshot Gallery | https://hieq-home404.pages.dev/#/layout |
+| Visual6502 – Visual Transistor-Level 6502 Simulator | http://visual6502.org/ |
+
 
 ---
 
@@ -561,6 +579,8 @@
 | Dabao Evaluation Board for Baochip-1x (Crowd Supply) | https://www.crowdsupply.com/baochip/dabao |
 | Open Quantum Design (GitHub Org) | https://github.com/OpenQuantumDesign |
 | ttSky – CRYPTOGRAPHY DESTROYER OMEGA INFINITY | https://github.com/PolloXDDD/ttsky-CRYPTOGRAPHY-DESTROYER-OMEGA-INFINITY |
+| Semicon Labs – VLSI Cloud Labs | https://www.semiconlabs.com/ |
+
 
 ---
 
@@ -722,6 +742,8 @@
 | New Tools for Building Agents (OpenAI) | https://openai.com/index/new-tools-for-building-agents/ |
 | autoresearch | https://github.com/karpathy/autoresearch |
 | Microchip MPLAB XC Compilers & Machine Learning Development Suite | https://www.microchip.com/en-us/about/news-releases/products/microchip-expands-developer-access-with-free-mplab-xc-compilers-and-mplab-machine-learning-development-suite |
+| Zap! – AI Development Tool | https://zap.mutual.solutions/compare |
+
 
 ---
 
