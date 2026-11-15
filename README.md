@@ -90,6 +90,7 @@
 | Partcl — GPU Accelerated EDA | https://partcl.com/ |
 | OpenChip – Natural-Language to RTL Project | https://github.com/harrrshall/openchip |
 | Ignytion.io – Software-Driven Silicon Design | https://ignytion.io/ |
+| BlueGarden – Managed FPGA & ASIC Design Environment | https://www.symbioticeda.com/bluegarden-design-environment |
 
 
 ### Synthesis & Place-and-Route
@@ -210,6 +211,8 @@
 | Chipyard Documentation | https://chipyard.readthedocs.io/en/latest/ |
 | Cornell C2S2 Tapeout | https://cornell-c2s2.github.io/ |
 | IOb-SoC-Linux | https://github.com/IObundle/soc-linux |
+| Argo – RISC-V SoC with 8x8 Systolic Array (IHP 130) – GitHub | https://github.com/RakshithSuresh2001/argo-rv32-systolic-ihp130 |
+| Argo – RISC-V SoC on IHP 130 nm (Project Page) | https://rakshithsuresh2001.github.io/argo.html |
 
 ---
 
@@ -299,6 +302,9 @@
 | Neural Networks on FPGA | https://www.youtube.com/playlist?list=PLJePd8QU_LYKZwJnByZ8FHDg5l1rXtcIq |
 | Digilent Basys 3 FPGA Viewer | https://fpgadot.vercel.app/ |
 | FPGA CPU News – FPGA CPU Resources and Projects | http://www.fpgacpu.org/index.html |
+| Isle – Open FPGA Computer (Project F) | https://github.com/projf/isle |
+| Tang Nano 9K – Linux-Capable SoC Implementation | https://github.com/phoenix367/tang_nano_9K_linux |
+| Antmicro – Open Hardware Board Catalogue | https://openhardware.antmicro.com/boards/?page=4 |
 
 ---
 
@@ -334,6 +340,7 @@
 | CERN KiCad Libraries | https://gitlab.com/ohwr/cern-kicad-libs |
 | IHP SG13G2 AMS Chip Design Tutorial | https://iic-jku.github.io/ihp-sg13g2-ams-chip-template/index.html |
 | IHP SG13G2 AMS Chip Design Template | https://github.com/iic-jku/ihp-sg13g2-ams-chip-template |
+| Advanced Integrated Circuits (AIC 2026) – Course Book | https://analogicus.com/aic2026/assets/aic.pdf |
 
 ---
 
@@ -377,6 +384,7 @@
 | Cornell Custom Silicon Systems – Chip Gallery | https://www.c2s2.dev/chip-gallery |
 | Cornell Virtual Workshop – Multithreading | https://cvw.cac.cornell.edu/parallel/memory-access/multithreading |
 | CS 3410 – Computer System Organization and Programming (Fall 2026) | https://www.cs.cornell.edu/courses/cs3410/2026fa/schedule.html |
+| Cornell Virtual Workshop – GPU Architecture | https://cvw.cac.cornell.edu/gpu-architecture |
 
 
 ### MIT
@@ -437,6 +445,7 @@
 | CS 179: GPU Programming | https://courses.cms.caltech.edu/cs179/ |
 | ECE 408 – Applied Parallel Programming | https://courses.grainger.illinois.edu/ece408/su2026/ |
 | CIS 565 – GPU Programming and Architecture | https://cis565-fall-2017.github.io/ |
+| Embedded Systems – Shape the World (Valvano & Yerraballi) | https://users.ece.utexas.edu/~valvano/Volume1/E-Book/ |
 
 ---
 
@@ -483,6 +492,7 @@
 | Parallel Programming for FPGAs | https://kastner.ucsd.edu/hlsbook/ |
 | CS231n – Deep Learning for Computer Vision | https://cs231n.github.io/convolutional-networks/ |
 | Machine Learning Systems – Volume I Lecture Slides | https://mlsysbook.ai/slides/vol1.html |
+| Hardware Engineering Interview Question Bank (Voltage Learning) | https://voltagelearning.com/question-bank |
 
 ---
 
@@ -515,6 +525,7 @@
 | HDL Awesome List | https://github.com/hdl/awesome |
 | XLS Playground (Google Colab) | https://colab.research.google.com/gist/proppy/5ca7ad39f7c72464c5f667adf11100eb/xls-playground-conda.ipynb |
 | Spacely Docs | https://github.com/SpacelyProject/spacely-docs |
+| t27 – Hardware Programming Language & FPGA Learning Platform | https://t27.ai/#/ |
 
 ---
 
@@ -544,6 +555,9 @@
 | Velxio Article (CNX Software) | https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/ |
 | HiEQ – Chip Layout & Dieshot Gallery | https://hieq-home404.pages.dev/#/layout |
 | Visual6502 – Visual Transistor-Level 6502 Simulator | http://visual6502.org/ |
+| Antares – Digital Circuit Learning Platform | https://www.antarescircuit.io/ |
+| uiCA – x86 Basic-Block Throughput Simulator | https://uica.uops.info/ |
+| Algorithm Visualizer | https://algorithm-visualizer.org/ |
 
 
 ---
@@ -674,6 +688,7 @@
 | Open RISC-V Cores (LibHunt) | https://www.libhunt.com/l/risc-v |
 | Guitar Specs (gitfrage) | https://github.com/gitfrage/guitarspecs |
 | System AI Prompts (x1xhlol) | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools |
+| Jane Street Resource Directory (hft.md) – HFT, Interview & Hardware Resources | https://hft.md/jane-street/ |
 
 ---
 
@@ -715,6 +730,22 @@
 | Modern Microprocessors – A 90-Minute Guide | https://www.lighterra.com/papers/modernmicroprocessors/ |
 | IOb-SoC-Linux – Open-Source Linux-Capable RISC-V SoC Template | https://www.preprints.org/manuscript/202609.1343 |
 | A³ – Agentic Approaches to Architecture | https://agentic-arch.org/index.html |
+| Introduction to Digital Electronics (Agner Fog) | https://agner.org/digital/digital_electronics_agner_fog.pdf |
+| x86-64 Assembly Language Programming with Ubuntu (Ed Jorgensen) | https://www.egr.unlv.edu/~ed/assembly64.pdf |
+| General Protection Fault – Low-Level Programming & Graphics Blog | https://gpfault.net/ |
+| GPU Architecture Fundamentals – Modular LLM Inference Handbook | https://handbook.modular.com/kernel-optimization/gpu-architecture-fundamentals/ |
+| Understanding Latency Hiding on GPUs (UC Berkeley Technical Report) | https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/Archive/EECS-2016-143.pdf |
+| TPU Deep Dive | https://henryhmko.github.io/posts/tpu/tpu.html |
+| Row-Major vs Column-Major (Lei Mao) | https://leimao.github.io/blog/Row-Major-VS-Column-Major/ |
+| C++ Design Patterns for Low-Latency Applications, Including High-Frequency Trading (arXiv) | https://arxiv.org/pdf/2309.04259 |
+| CppCon 2024 – When Nanoseconds Matter: Ultrafast Trading Systems in C++ (David Gross) | https://isocpp.org/blog/2025/05/cppcon-2024-when-nanoseconds-matter-ultrafast-trading-systems-in-cpp-d |
+| Computer Science from the Bottom Up (Ian Wienand) | https://www.bottomupcs.com/ |
+| Expresso – Building a Networking Switch ASIC (Project Write-up) | https://talesonthewire.com/projects/expresso/ |
+| RISC-V Articles & FPGA Projects (Jagadeesh Mummana) | https://mummanajagadeesh.github.io/categories/riscv/ |
+| Achieving Out-of-Order Execution in a RISC-V CPU (Outercloud) | https://www.outercloud.dev/blogs/riscv-3/ |
+| FPGA CPU – xSoC Series Drafts | http://www.fpgacpu.org/papers/xsoc-series-drafts.pdf |
+| FPGA CPU – SoC-GR0040 Slides | http://www.fpgacpu.org/papers/soc-gr0040-slides.pdf |
+| FPGA CPU – xSoC Slides | http://www.fpgacpu.org/papers/xsoc-slides.pdf |
 
 ---
 
@@ -912,6 +943,8 @@
 | Neural Networks: Zero to Hero | https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ |
 | CUDA Programming | https://youtube.com/playlist?list=PLU0zjpa44nPXddA_hWV1U8oO7AevFgXnT |
 | GPU MODE | https://youtube.com/@gpumode |
+| GPU Programming (YouTube Playlist) | https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j |
+| Directions in Deep Learning Hardware (Talk) | https://www.youtube.com/watch?v=gofI47kfD28 |
 
 ### FPGA, Embedded & Hardware Projects
 | Name | URL |
