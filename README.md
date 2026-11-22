@@ -753,7 +753,6 @@
 | FPGA CPU – xSoC Series Drafts | http://www.fpgacpu.org/papers/xsoc-series-drafts.pdf |
 | FPGA CPU – SoC-GR0040 Slides | http://www.fpgacpu.org/papers/soc-gr0040-slides.pdf |
 | FPGA CPU – xSoC Slides | http://www.fpgacpu.org/papers/xsoc-slides.pdf |
-| Vibecoding an Inference Chip – FPGA-Based LLM Experiment | https://ankitg.me/blog/vibecoding-inference-chip/ |
 | xv6 – A Simple Unix-Like Teaching Operating System (MIT) | https://mit-pdos.github.io/xv6-riscv-book/ |
 | Making an Open Chip Design Reproducible (Hamza Boukabache) | https://www.linkedin.com/pulse/making-open-chip-design-reproducible-hamza-boukabache-phd-gjz2e/ |
 | Design Your Own SRAM Like It's 1969 (Compute Junkie) | https://computejunkie.substack.com/p/design-your-own-sram-like-its-1969 |
