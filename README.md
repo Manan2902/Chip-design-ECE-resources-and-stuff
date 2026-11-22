@@ -91,6 +91,7 @@
 | OpenChip – Natural-Language to RTL Project | https://github.com/harrrshall/openchip |
 | Ignytion.io – Software-Driven Silicon Design | https://ignytion.io/ |
 | BlueGarden – Managed FPGA & ASIC Design Environment | https://www.symbioticeda.com/bluegarden-design-environment |
+| IC Design Studio – Open-Source Desktop IC Design Environment | https://github.com/jonahsaunders/IC-Design-Studio |
 
 
 ### Synthesis & Place-and-Route
@@ -396,6 +397,7 @@
 | Street-Fighting Mathematics (OCW) | https://ocw.mit.edu/courses/18-098-street-fighting-mathematics/ |
 | 6.11 Introductory Digital Systems Laboratory | https://web.mit.edu/6.111/www/f2016/ |
 | Missing Semester 2026 – Course Shell | https://missing.csail.mit.edu/2026/course-shell/ |
+| MAS.863 – How To Make (almost) Anything (MIT, 2026) | https://pub.cba.mit.edu/863.26/site/ |
 
 ### Stanford
 | Name | URL |
@@ -493,6 +495,8 @@
 | CS231n – Deep Learning for Computer Vision | https://cs231n.github.io/convolutional-networks/ |
 | Machine Learning Systems – Volume I Lecture Slides | https://mlsysbook.ai/slides/vol1.html |
 | Hardware Engineering Interview Question Bank (Voltage Learning) | https://voltagelearning.com/question-bank |
+| Open Syllabus – University Course & Curriculum Discovery | https://www.opensyllabus.org/ |
+| Getting Started with FPGA – Beginner's Guide (ICS Tutorial) | https://icstutorial.com/how-to-get-started-with-fpga-a-complete-beginners-guide/ |
 
 ---
 
@@ -526,6 +530,8 @@
 | XLS Playground (Google Colab) | https://colab.research.google.com/gist/proppy/5ca7ad39f7c72464c5f667adf11100eb/xls-playground-conda.ipynb |
 | Spacely Docs | https://github.com/SpacelyProject/spacely-docs |
 | t27 – Hardware Programming Language & FPGA Learning Platform | https://t27.ai/#/ |
+| Construct a RISC-V CPU with Chisel (Lab 3) | https://hackmd.io/@sysprog/arch2026-lab3/%2F%40sysprog%2Farch2026-lab3-a |
+| Verilog – Introduction & Reference (ICS Tutorial) | https://icstutorial.com/encyclopedia/verilog/ |
 
 ---
 
@@ -558,6 +564,7 @@
 | Antares – Digital Circuit Learning Platform | https://www.antarescircuit.io/ |
 | uiCA – x86 Basic-Block Throughput Simulator | https://uica.uops.info/ |
 | Algorithm Visualizer | https://algorithm-visualizer.org/ |
+| softFPGA – Browser-Based FPGA Emulator & Development Environment | https://senolgulgonul.github.io/softfpga/ |
 
 
 ---
@@ -746,6 +753,10 @@
 | FPGA CPU – xSoC Series Drafts | http://www.fpgacpu.org/papers/xsoc-series-drafts.pdf |
 | FPGA CPU – SoC-GR0040 Slides | http://www.fpgacpu.org/papers/soc-gr0040-slides.pdf |
 | FPGA CPU – xSoC Slides | http://www.fpgacpu.org/papers/xsoc-slides.pdf |
+| Vibecoding an Inference Chip – FPGA-Based LLM Experiment | https://ankitg.me/blog/vibecoding-inference-chip/ |
+| xv6 – A Simple Unix-Like Teaching Operating System (MIT) | https://mit-pdos.github.io/xv6-riscv-book/ |
+| Making an Open Chip Design Reproducible (Hamza Boukabache) | https://www.linkedin.com/pulse/making-open-chip-design-reproducible-hamza-boukabache-phd-gjz2e/ |
+| Design Your Own SRAM Like It's 1969 (Compute Junkie) | https://computejunkie.substack.com/p/design-your-own-sram-like-its-1969 |
 
 ---
 
